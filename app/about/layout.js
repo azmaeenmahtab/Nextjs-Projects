@@ -7,6 +7,7 @@ export default function MissionLayout ({children}){
                 <ul>
                     <li> <Link href="/about/mission">Mission</Link></li>
                     <li> <Link href="/about/vision">Vision</Link></li>
+                    <li> <Link href="/about/creation">Creation</Link></li>
                 </ul>
             </nav>
             <div>{children}</div>
